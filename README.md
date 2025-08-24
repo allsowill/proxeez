@@ -10,6 +10,7 @@ Its my attempt at making the tool that I wanted to have, its not done particular
 SETUP INFO: 
 - "proxeez.bat" is set up to go in System32 to make the command <b><em> proxeez </em></b> usable without adding to system path (it was quicker)
 - the folder "Proxeez" and its contents is set up to be placed in <b><em>C:\ </em></b> The only reason for this is that's where my ffmpeg folder is. But it also makes the direcotry shorter.
+  (you can change these if you want though)
 
 I'm interested in compiling into an installer but frankly I have no idea how they work.
 
