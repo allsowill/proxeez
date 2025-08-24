@@ -13,15 +13,18 @@ SETUP INFO:
 
 I'm interested in compiling into an installer but frankly I have no idea how they work.
 
+YOU MUST CD INTO THE DIRECTORY WITH THE MEDIA TO TRANSCODE BEFORE YOU RUN THE PROGRAM!!!
+
 --------------
 Tested Codecs and Formats:
 
 h264 h265 DNxHR DNxHD XAVC ProRes QuickTime MPEG4
   
 --------------
-USE INFO
----
-<b>YOU MUST cd INTO THE DIRECTORY WITH THE MEDIA TO BE TRANSCODED, DON'T ACCIDENTALLY TRANSCODE A TON OF WRONG MEDIA!</b>
+COMMANDS:
+<em><b>proxeez</em></b> runs the proxeez program
+
+<em><b>proxeez help</em></b> opens the help and about page!
 
 ------
 Things that haven't been tested:
