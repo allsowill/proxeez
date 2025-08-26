@@ -32,7 +32,6 @@ Things that haven't been tested:
 - High Frame Rate (anything >60)
 - Any other codec not listed above
 - RAW
-- Colour Space Transform
 
 ------------
 Future Plans:
